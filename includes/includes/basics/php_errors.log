@@ -1,0 +1,4 @@
+[21-Nov-2014 10:57:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Apache24\htdocs\includes\basics\json.basics.php on line 98
+[09-Feb-2015 22:19:14 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Apache24\htdocs\includes\general_class\class.session.inc on line 18
+[11-Feb-2015 04:25:08 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Apache24\htdocs\includes\general_class\class.dbcOra.inc on line 22
+[12-Feb-2015 02:15:45 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Apache24\htdocs\includes\general_class\class.session.inc on line 18
