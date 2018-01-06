@@ -1,0 +1,7 @@
+#
+# http://www.robotstxt.org/wc/robots.html
+
+
+# Directories
+Disallow: /includes/
+Disallow: /modules/
